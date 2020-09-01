@@ -4,5 +4,5 @@ Comparing Vectorization methods and Vector lengths:
 Hierarchical and K-means document clustering:
  - https://htmlpreview.github.io/?https://github.com/mgldt/machine_learning/master/nlp/doc_clustering.html
  
-Document classification; RNN-LSTM, RNN-GRU, CNN, Random Forest:
+Document classification using RNN-LSTM, RNN-GRU, CNN, and Random Forest:
  - https://htmlpreview.github.io/?https://github.com/mgldt/machine_learning/master/nlp/doc_classification.html
